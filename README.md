@@ -43,14 +43,14 @@
     ```
    result CLI
 
-   ![sent](http://localhost/github/rabbitmq-library-codeigniter-3/images/sent.png)
+   ![sent](https://github.com/zainul23/rabbitmq-CI/blob/main/images/sent.png)
 2. pull queue message 
     ```
     php index.php controllerName/queue
     ```
     result CLI :
-    
-    ![pull](http://localhost/github/rabbitmq-library-codeigniter-3/images/pull.png)
+
+    ![pull](https://github.com/zainul23/rabbitmq-CI/blob/main/images/pull.png)
     
 ### update php-amqlib to ^3.2 use this command
 Note: when php-amqlib cannot use version `^3.2` following step bellow : 
